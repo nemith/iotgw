@@ -1,4 +1,4 @@
-module github.com/nemith/iotgw
+module nemith.io/iotgw
 
 go 1.17
 

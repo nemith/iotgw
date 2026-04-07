@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/nemith/iotgw"
+	"nemith.io/iotgw"
 )
 
 func main() {
